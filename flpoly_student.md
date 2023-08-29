@@ -20,7 +20,7 @@ I am _passionate about_:
 
 - Plants
 
-- Wawa Strawberry Banana Mango Smoothies as shown in this website <https://www.wawa.com/>
+- Wawa Strawberry Banana Mango Smoothies as shown in this website <https://order.wawa.com/web/product/0da72bec-b780-4a72-b4bd-ad26b4d59c57?category=beverages%2Ffruit-smoothies>
 
 ***
 
