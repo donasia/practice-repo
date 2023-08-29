@@ -1,16 +1,16 @@
 ## Donasia Washington
 
-### 2023
+### Fall 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Operations and Supply Chain Management
 
-- Course 2
+- Accounting for Managers
 
-- Course 3
+- Foundations for Data Analytics
 
-- Course 4
+- Global Logistics Management
 
 **Hobbies:**
 
