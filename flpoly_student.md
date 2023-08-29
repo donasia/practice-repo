@@ -16,9 +16,9 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Plants
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
