@@ -12,7 +12,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Global Logistics Management
 
-**Hobbies:**
+**Hobbies:** Roller Skating and Softball
 
 I am _passionate about_: 
 
@@ -20,8 +20,8 @@ I am _passionate about_:
 
 - Plants
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Wawa Strawberry Banana Mango Smoothies as shown in this website <https://www.wawa.com/>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/08/29
