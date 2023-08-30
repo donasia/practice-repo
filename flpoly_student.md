@@ -8,7 +8,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Accounting for Managers
 
-- Foundations for Data Analytics
+- Foundations of Data Analytics
 
 - Global Logistics Management
 
