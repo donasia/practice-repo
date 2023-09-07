@@ -21,7 +21,7 @@ I am _passionate about_:
 
 - Wawa Strawberry Banana Mango Smoothies as shown in this website <https://order.wawa.com/web/product/0da72bec-b780-4a72-b4bd-ad26b4d59c57?category=beverages%2Ffruit-smoothies>
 
-![Here is the code of this repo](C:\Users\Donas\OneDrive\Pictures\Screenshots\Modified github repo screenshot.png) 
+![Here is the repo](C:\Users\Donas\OneDrive\Pictures\Screenshots\Modified github repo screenshot.png)
 
 
 ***
